@@ -6,6 +6,7 @@
     <array>
       <dict>
         <key>assets</key>
+<<<<<<< HEAD
         <array>
           <dict>
             <key>kind</key>
@@ -14,6 +15,14 @@
             <string>https://raw.githubusercontent.com/sinotruk-dev/sinotrukApp/master/SalesAndServiceApp.ipa</string>
           </dict>         
         </array>
+=======
+        <dict>
+	  <key>kind</key>
+	  <string>software-package</string>
+	  <key>url</key>
+	  <string>https://raw.githubusercontent.com/sinotruk-dev/sinotrukApp/master/SalesAndServiceApp.ipa</string>
+        </dict>
+>>>>>>> dc5588906cc65e02daca7dfb6099acf677c8d71d
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
